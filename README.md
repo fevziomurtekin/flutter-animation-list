@@ -3,7 +3,7 @@ Animated List with Flutter.
 
 ## Screen
 
- <center><img src="/screen/screen.gif" width="350" height="450" /></center>
+ <center><img src="https://media.giphy.com/media/t9lPO4PHcvb48HkGAo/giphy.gif" width="350" height="450" /></center>
 
 # Taskbook
 
