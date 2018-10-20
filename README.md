@@ -3,9 +3,9 @@ Animated List with Flutter.
 
 ## Screen
 
- <center><img src="/screen/screen.gif" width="350" height="400" /></center>
+ <center><img src="/screen/screen.gif" width="350" height="450" /></center>
 
-# TaskBook
+# Taskbook
 
 - [ ] The image will be blurred.
 - [ ] Horizontal list to be added.
